@@ -1,0 +1,2 @@
+# AA_BlueArchiveKoshoSearch
+ブルアカ登場キャラ・グループの呼称検索ツール
